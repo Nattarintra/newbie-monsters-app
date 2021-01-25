@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/newbie-monsters-app/static/css/main.237413f3.chunk.css",
-    "main.js": "/newbie-monsters-app/static/js/main.729ec2af.chunk.js",
-    "main.js.map": "/newbie-monsters-app/static/js/main.729ec2af.chunk.js.map",
+    "main.js": "/newbie-monsters-app/static/js/main.aac6d494.chunk.js",
+    "main.js.map": "/newbie-monsters-app/static/js/main.aac6d494.chunk.js.map",
     "runtime-main.js": "/newbie-monsters-app/static/js/runtime-main.c24843a2.js",
     "runtime-main.js.map": "/newbie-monsters-app/static/js/runtime-main.c24843a2.js.map",
     "static/js/2.ee0a4708.chunk.js": "/newbie-monsters-app/static/js/2.ee0a4708.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c24843a2.js",
     "static/js/2.ee0a4708.chunk.js",
     "static/css/main.237413f3.chunk.css",
-    "static/js/main.729ec2af.chunk.js"
+    "static/js/main.aac6d494.chunk.js"
   ]
 }
