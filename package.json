@@ -2,7 +2,7 @@
   "name": "newbie-monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nattarintra.github.io/monsters-app",
+  "homepage": "https://Nattarintra.github.io/newbie-monsters-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
